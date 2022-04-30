@@ -1,0 +1,19 @@
+/* 
+    The colours that archaeologists know were used in Viking Age clothes are yellow, red, purple and blue.
+*/
+
+body {
+    background: rgba(49, 184, 238, 0.767);
+    color: rgb(0, 0, 0);
+}
+img {
+    height: auto;
+    max-width: 100%;
+}
+a {
+    color: rgb(70, 9, 238);
+}
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+}
